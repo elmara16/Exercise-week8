@@ -1,0 +1,28 @@
+{
+  "name": "exercise-week8",
+  "version": "1.0.0",
+  "description": "greetingToronto",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll",
+    "clean": "rm -rf node_modules",
+	"run": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmara16/Exercise-week8.git"
+  },
+  "keywords": [
+    "week8"
+  ],
+  "author": "elmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmara16/Exercise-week8/issues"
+  },
+  "homepage": "https://github.com/elmara16/Exercise-week8#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
